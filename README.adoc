@@ -1,0 +1,9 @@
+# PROJECT OVERVIEW
+
+XYZ Reader was created as part of Udacity Nanodegree course requirement
+
+## APP FEATURES
+* Apply Material Design guidelines to an mobile application.
+* Separate an interface into surfaces.
+* Effectively use transitions and motion using method from https://github.com/alexjlockwood/adp-activity-transitions.git
+
